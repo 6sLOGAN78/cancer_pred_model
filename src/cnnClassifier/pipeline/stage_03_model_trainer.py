@@ -1,4 +1,4 @@
-from cnnClassifier.config.configuration import ConfigurationManager
+from cnnClassifier.components.config.configuration import ConfigurationManager
 from cnnClassifier.components.model_trainer import Training
 from cnnClassifier import logger
 
